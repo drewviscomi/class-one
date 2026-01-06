@@ -10,5 +10,4 @@
 
 This is an example of a GitHub repository.
 
-Test
 Test again
